@@ -10,7 +10,7 @@ body {
 }
 
 ul, p {
-    font-size: 1rem;
+    font-size: 1em;
     line-height: 2.7rem;
     font-weight: 100;
 }
@@ -468,7 +468,7 @@ footer .footer-below {
 header img.profile-img {
     max-width: 240px;
     border-radius: 50%;
-    border: 0.4em solid rgba(255, 255, 255, 0.75);
+    border: 0.4em solid rgba(255, 255, 255, 0.5);
 }
 
 header .intro-text .name {
