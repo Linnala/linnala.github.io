@@ -12,9 +12,9 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/jussi-linnala-4057846/
 #  - title: medium
-#    url: https://medium.com/@sielunahjo
+#    url: https://medium.com/@JussiLinnala
 #  - title: twitter
-#    url: https://twitter.com/sielunahjo
+#    url: https://twitter.com/JussiLinnala
     
 # Google webmaster tools
 google_verify:
@@ -26,9 +26,9 @@ bing_verify:
 color:
   primary: 000000
   primary-rgb: "0, 0, 0"
-  secondary: ff0000
-  secondary-dark: 990000
-  section-tout: 0000ff
+  secondary: 516373
+  secondary-dark: 273038
+  section-tout: 8C8A6C
 
 
 
